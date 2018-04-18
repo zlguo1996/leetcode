@@ -20,5 +20,7 @@ LeetCode solutions in C++
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)                                   | [C++](algorithms/cpp/%23023_Merge%20k%20Sorted%20Lists.cpp)                      |   | Hard   | `Linked List` `Divide and Conquer` `Heap` |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)                                     | [C++](algorithms/cpp/%23024_Swap%20Nodes%20in%20Pairs.cpp)                       |   | Medium | `Linked List`                             |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)                           | [C++](algorithms/cpp/%23025_Reverse%20Nodes%20in%20k-Group)                      |   | Hard   | `Linked List`                             |
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[C++](algorithms/cpp/%23053_Maximum%20Subarray.cpp)||Easy|`Array` `Divide and Conquer` `Dynamic Programming`|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[C++](algorithms/cpp/%23070_Climbing%20Stairs.cpp)||Easy|`Dynamic Programming`|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[C++](algorithms/cpp/%2355_Jump%20Game.cpp)||Medium|`Array` `Greedy`|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[C++](algorithms/cpp/%2362_Unique%20Paths.cpp)||Medium|`Array` `Dynamic Programming`|
