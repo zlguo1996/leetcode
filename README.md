@@ -25,4 +25,5 @@ LeetCode solutions in C++
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[C++](algorithms/cpp/%2355_Jump%20Game.cpp)||Medium|`Array` `Greedy`|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[C++](algorithms/cpp/%2362_Unique%20Paths.cpp)||Medium|`Array` `Dynamic Programming`|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[C++](algorithms/cpp/%23063_Unique%20Paths%20II.cpp)||Medium|`Array` `Dynamic Programming`|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[C++](algorithms/cpp/%23069_Sqrt(x).cpp)||Easy|`Math` `Binary Search`|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[C++](algorithms/cpp/%23070_Climbing%20Stairs.cpp)||Easy|`Dynamic Programming`|
