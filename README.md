@@ -29,6 +29,12 @@ LeetCode solutions in C++
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[C++](algorithms/cpp/%23070_Climbing%20Stairs.cpp)||Easy|`Dynamic Programming`|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[C++](algorithms/cpp/%23133_Clone%20Graph.cpp)||Medium|`Depth-first Search` `Breadth-first Search` `Graph`|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](algorithms/cpp/%23152_Maximum%20Product%20Subarray.cpp)||Medium|`Array` `Dynamic Programming`|
-|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[C++]()||Medium|`Array` `Binary Search`|
-
-
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[C++](algorithms/cpp/%23153_Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)||Medium|`Array` `Binary Search`|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)|[C++](algorithms/cpp/%23190_Reverse%20Bits.cpp)||Easy|`Bit Manipulation`|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)|[C++](algorithms/cpp/%23191_Number%20of%201%20Bits.cpp)||Easy|`Bit Manipulation`|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|[C++](algorithms/cpp/%23238_Product%20of%20Array%20Except%20Self.cpp)||Medium|`Array`|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[C++](algorithms/cpp/%23268_Missing%20Number.cpp)||Easy|`Array` `Math` `Bit Manipulation`|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[C++]()||Medium|`Binary Search` `Dynamic Programming`|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[C++](algorithms/cpp/%23300_Longest%20Increasing%20Subsequence.cpp)||Medium|`Dymanic Programming`|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[C++](master/algorithms/cpp/%23322_Coin%20Change.cpp)||Medium|`Dynamic Programming` `Bit Manipulation`|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)|[C++](algorithms/cpp/%23371_Sum%20of%20Two%20Integers.cpp)||Easy|`Bit Manipulation`|
