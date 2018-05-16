@@ -28,6 +28,7 @@ LeetCode solutions in C++
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[C++](algorithms/cpp/%23063_Unique%20Paths%20II.cpp)||Medium|`Array` `Dynamic Programming`|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[C++](algorithms/cpp/%23069_Sqrt(x).cpp)||Easy|`Math` `Binary Search`|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[C++](algorithms/cpp/%23070_Climbing%20Stairs.cpp)||Easy|`Dynamic Programming`|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[C++](algorithms/cpp/%23125_Valid%20Palindrome.cpp)||Easy|`Two Pointers` `String`|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[C++](algorithms/cpp/%23133_Clone%20Graph.cpp)||Medium|`Depth-first Search` `Breadth-first Search` `Graph`|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](algorithms/cpp/%23152_Maximum%20Product%20Subarray.cpp)||Medium|`Array` `Dynamic Programming`|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[C++](algorithms/cpp/%23153_Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)||Medium|`Array` `Binary Search`|
