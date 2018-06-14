@@ -21,7 +21,7 @@ LeetCode solutions in C++
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)                                     | [C++](algorithms/cpp/%23024_Swap%20Nodes%20in%20Pairs.cpp)                       |   | Medium | `Linked List`                             |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)                           | [C++](algorithms/cpp/%23025_Reverse%20Nodes%20in%20k-Group)                      |   | Hard   | `Linked List`                             |
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[C++](algorithms/cpp/%23029_Divide%20Two%20Integers.cpp)||Medium|`Math` `Binary Search`|
-|31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[C++]|(algorithms/cpp/%23031_Next%20Permutation.cpp)||Medium|`Array`|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[C++](algorithms/cpp/%23031_Next%20Permutation.cpp)||Medium|`Array`|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[C++](algorithms/cpp/%23045_Jump%20Game%20II.cpp)||Hard|`Array` `Greedy`|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[C++](https://github.com/neconeconeco/leetcode/blob/master/algorithms/cpp/%23050_Pow(x%2C%20n).cpp)||Medium|`Math` ` Binary Search`|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[C++](algorithms/cpp/%23053_Maximum%20Subarray.cpp)||Easy|`Array` `Divide and Conquer` `Dynamic Programming`|
