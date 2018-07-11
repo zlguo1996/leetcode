@@ -22,6 +22,7 @@ LeetCode solutions in C++
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)                                     | [C++](algorithms/cpp/%23024_Swap%20Nodes%20in%20Pairs.cpp)                       |   | Medium | `Linked List`                             |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)                           | [C++](algorithms/cpp/%23025_Reverse%20Nodes%20in%20k-Group)                      |   | Hard   | `Linked List`                             |
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[C++](algorithms/cpp/%23029_Divide%20Two%20Integers.cpp)||Medium|`Math` `Binary Search`|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|[C++](algorithms/cpp/%23030_Substring%20with%20Concatenation%20of%20All%20Words.cpp)||Hard|`Hash Table` `Two Pointers` `String`|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[C++](algorithms/cpp/%23031_Next%20Permutation.cpp)||Medium|`Array`|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[C++](algorithms/cpp/%23033_Search%20in%20Rotated%20Sorted%20Array.cpp)||Medium|`Array` `Binary Search`|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[C++](algorithms/cpp/%23045_Jump%20Game%20II.cpp)||Hard|`Array` `Greedy`|
