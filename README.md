@@ -27,7 +27,7 @@ LeetCode solutions in C++
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[C++](algorithms/cpp/%23032_Longest%20Valid%20Parentheses.cpp)||Hard|`String` `Dynamic Programming`|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[C++](algorithms/cpp/%23033_Search%20in%20Rotated%20Sorted%20Array.cpp)||Medium|`Array` `Binary Search`|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[C++](algorithms/cpp/%23034_Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)||Medium|`Array` `Binary Search`|
-|36|[Valid Sudoku]|[C++](algorithms/cpp/%23036_Valid%20Sudoku.cpp)||Medium|`Hash Table`|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[C++](algorithms/cpp/%23036_Valid%20Sudoku.cpp)||Medium|`Hash Table`|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[C++](algorithms/cpp/%23045_Jump%20Game%20II.cpp)||Hard|`Array` `Greedy`|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[C++](https://github.com/neconeconeco/leetcode/blob/master/algorithms/cpp/%23050_Pow(x%2C%20n).cpp)||Medium|`Math` ` Binary Search`|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[C++](algorithms/cpp/%23053_Maximum%20Subarray.cpp)||Easy|`Array` `Divide and Conquer` `Dynamic Programming`|
