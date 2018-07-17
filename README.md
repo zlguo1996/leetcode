@@ -31,6 +31,7 @@ LeetCode solutions in C++
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)|[C++](algorithms/cpp/%23037_Sudoku%20Solver.cpp)||Hard|`Hash Table` `Backtracking`|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[C++](algorithms/cpp/%23039_Combination%20Sum.cpp)||Medium|`Array` `Backtracking`|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[C++](algorithms/cpp/%23040_Combination%20Sum%20II.cpp)||Medium|`Array` `Backtracking`|
+|41|First Missing Positive|[C++](algorithms/cpp/%23041_First%20Missing%20Positive.cpp)|mark|Hard|`Array`|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[C++](algorithms/cpp/%23045_Jump%20Game%20II.cpp)||Hard|`Array` `Greedy`|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[C++](https://github.com/neconeconeco/leetcode/blob/master/algorithms/cpp/%23050_Pow(x%2C%20n).cpp)||Medium|`Math` ` Binary Search`|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[C++](algorithms/cpp/%23053_Maximum%20Subarray.cpp)||Easy|`Array` `Divide and Conquer` `Dynamic Programming`|
