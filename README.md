@@ -37,6 +37,7 @@ LeetCode solutions in C++
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|[C++](algorithms/cpp/%23044_Wildcard%20Matching.cpp)|[🌟🌟🌟](https://www.cnblogs.com/grandyang/p/4401196.html)|Hard|`String` `Dynamic Programming` `Backtracking` `Greedy`|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[C++](algorithms/cpp/%23045_Jump%20Game%20II.cpp)||Hard|`Array` `Greedy`|
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|[C++](algorithms/cpp/%23046_Permutations.cpp)||Medium|`Backtracking`|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[C++](algorithms/cpp/%23047_Permutations%20II.cpp)||Medium|`Backtracking`|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[C++](https://github.com/neconeconeco/leetcode/blob/master/algorithms/cpp/%23050_Pow(x%2C%20n).cpp)||Medium|`Math` ` Binary Search`|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[C++](algorithms/cpp/%23053_Maximum%20Subarray.cpp)||Easy|`Array` `Divide and Conquer` `Dynamic Programming`|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[C++](algorithms/cpp/%2355_Jump%20Game.cpp)||Medium|`Array` `Greedy`|
