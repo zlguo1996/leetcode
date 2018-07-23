@@ -54,6 +54,7 @@ LeetCode solutions in C++
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)|[C++](algorithms/cpp/%23191_Number%20of%201%20Bits.cpp)||Easy|`Bit Manipulation`|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|[C++](algorithms/cpp/%23238_Product%20of%20Array%20Except%20Self.cpp)||Medium|`Array`|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[C++](algorithms/cpp/%23268_Missing%20Number.cpp)||Easy|`Array` `Math` `Bit Manipulation`|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)|[C++](algorithms/cpp/%23279_Perfect%20Squares.cpp)||Medium|`Math` `Dynamic Programming` `Breadth-first Search`|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[C++]()||Medium|`Binary Search` `Dynamic Programming`|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[C++](algorithms/cpp/%23300_Longest%20Increasing%20Subsequence.cpp)||Medium|`Dymanic Programming`|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[C++](master/algorithms/cpp/%23322_Coin%20Change.cpp)||Medium|`Dynamic Programming` `Bit Manipulation`|
