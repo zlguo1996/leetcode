@@ -41,6 +41,7 @@ LeetCode solutions in C++
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[C++](algorithms/cpp/%23048_Rotate%20Image.cpp)||Medium|`Array`|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[C++](algorithms/cpp/%23049_Group%20Anagrams.cpp)|🌟|Medium|`Hash Table` `String`|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[C++](https://github.com/neconeconeco/leetcode/blob/master/algorithms/cpp/%23050_Pow(x%2C%20n).cpp)||Medium|`Math` ` Binary Search`|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/description/)|[C++](algorithms/cpp/%23051_N-Queens.cpp)||Hard|`Backtracking`|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[C++](algorithms/cpp/%23053_Maximum%20Subarray.cpp)||Easy|`Array` `Divide and Conquer` `Dynamic Programming`|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[C++](algorithms/cpp/%2355_Jump%20Game.cpp)||Medium|`Array` `Greedy`|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[C++](algorithms/cpp/%2362_Unique%20Paths.cpp)||Medium|`Array` `Dynamic Programming`|
