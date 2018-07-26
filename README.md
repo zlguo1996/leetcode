@@ -1,6 +1,6 @@
 # leetcode
 
-LeetCode solutions in C++
+LeetCode [solutions](algorithms/cpp) and [io library](lib) in C++
 
 |NO.|Title|Solution|Note|Difficulty|Tag|
 |---|-----|--------|----|----------|---|
