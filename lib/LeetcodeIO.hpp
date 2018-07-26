@@ -1,11 +1,3 @@
-//
-//  LeetcodeIO.hpp
-//  leetcode
-//
-//  Created by 郭子乐 on 2018/7/26.
-//  Copyright © 2018年 郭子乐. All rights reserved.
-//
-
 #ifndef LeetcodeIO_hpp
 #define LeetcodeIO_hpp
 
