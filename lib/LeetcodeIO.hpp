@@ -9,6 +9,10 @@
 
 using namespace std;
 
+/*
+ * Name: LeetcodeIO library
+ * Function: Print vector/mat to cout, read vector/mat from csv file.
+ */
 namespace leetcodeio {
     
     /*--------------------------print-----------------------*/
