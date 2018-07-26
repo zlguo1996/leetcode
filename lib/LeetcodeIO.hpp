@@ -1,3 +1,11 @@
+//
+//  LeetcodeIO.hpp
+//  leetcode
+//
+//  Created by 郭子乐 on 2018/7/26.
+//  Copyright © 2018年 郭子乐. All rights reserved.
+//
+
 #ifndef LeetcodeIO_hpp
 #define LeetcodeIO_hpp
 
@@ -11,8 +19,11 @@
 using namespace std;
 
 namespace leetcodeio {
+    
+    /*--------------------------print-----------------------*/
+    // 打印vector<T>
     template <typename T>
-    inline void printVector(vector<T> vec) {
+    inline void printVec(vector<T> vec) {
         int i=0;
         for(; i<vec.size()-1; i++){
             cout << vec[i] << ",";
@@ -20,6 +31,7 @@ namespace leetcodeio {
         if(i<vec.size()) cout << vec[i] << endl;
     }
     
+    // 打印vector<vector<T>>
     template <typename T>
     inline void printMat(vector<vector<T>> mat) {
         for(auto array:mat){
@@ -31,7 +43,47 @@ namespace leetcodeio {
         }
     }
     
-    inline vector<vector<string>> readMat(string csv_file_path) {
+    /*--------------------------read-----------------------*/
+    // -----vector-----
+    // 从csv文件读取vector<string>
+    inline vector<string> readVecStr(string csv_file_path) {
+        ifstream file(csv_file_path, ios::out);
+        assert(file.is_open());
+        
+        string lineStr;
+        vector<string> strArray;
+        while (getline(file, lineStr)) {
+            stringstream ss(lineStr);
+            string str;
+            
+            while (getline(ss, str, ',')) {
+                strArray.push_back(str);
+            }
+        }
+        
+        return strArray;
+    }
+    // 从csv文件读取vector<T>（T为int||float||double）
+    template <typename T>
+    inline vector<vector<T>> readVecNum(string csv_file_path) {
+        assert(sizeof(int)==sizeof(T)||sizeof(float)==sizeof(T)||sizeof(double)==sizeof(T));
+        
+        vector<T> numVec;
+        vector<string> strVec = readVecStr(csv_file_path);
+        
+        for(auto str:strVec){
+            stringstream ss(str);
+            T num;
+            ss >> num;
+            numVec.push_back(num);
+        }
+        
+        return numVec;
+    }
+    
+    // -----mat-----
+    // 从csv文件读取vector<vector<string>>
+    inline vector<vector<string>> readMatStr(string csv_file_path) {
         ifstream file(csv_file_path, ios::out);
         assert(file.is_open());
         
@@ -51,12 +103,13 @@ namespace leetcodeio {
         return strMat;
     }
     
+    // 从csv文件读取vector<vector<T>>（T为int||float||double）
     template <typename T>
     inline vector<vector<T>> readMatNum(string csv_file_path) {
         assert(sizeof(int)==sizeof(T)||sizeof(float)==sizeof(T)||sizeof(double)==sizeof(T));
         
         vector<vector<T>> numMat;
-        vector<vector<string>> strMat = readMat(csv_file_path);
+        vector<vector<string>> strMat = readMatStr(csv_file_path);
         
         for(auto strArray:strMat){
             vector<T> numArray;
