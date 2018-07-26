@@ -44,6 +44,7 @@ LeetCode solutions in C++
 |51|[N-Queens](https://leetcode.com/problems/n-queens/description/)|[C++](algorithms/cpp/%23051_N-Queens.cpp)||Hard|`Backtracking`|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[C++](algorithms/cpp/%23052_N-Queens%20II.cpp)||Hard|`Backtracking`|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[C++](algorithms/cpp/%23053_Maximum%20Subarray.cpp)||Easy|`Array` `Divide and Conquer` `Dynamic Programming`|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[C++](algorithms/cpp/%23054_Spiral%20Matrix.cpp)||Medium|`Array`|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[C++](algorithms/cpp/%2355_Jump%20Game.cpp)||Medium|`Array` `Greedy`|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[C++](algorithms/cpp/%2362_Unique%20Paths.cpp)||Medium|`Array` `Dynamic Programming`|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[C++](algorithms/cpp/%23063_Unique%20Paths%20II.cpp)||Medium|`Array` `Dynamic Programming`|
