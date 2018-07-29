@@ -49,6 +49,7 @@ LeetCode [solutions](algorithms/cpp) and [io library](lib) in C++
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[C++](algorithms/cpp/%23056_Merge%20Intervals.cpp)||Medium|`Array` `Sort`|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|[C++](algorithms/cpp/%23057_Insert%20Interval.cpp)|[🌟](https://leetcode.com/problems/insert-interval/discuss/21599/Elegant-C++-STL-solution-using-%22equal_range%22-to-find-overlapped-intervals.)|Hard|`Array` `Sort`|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[C++](algorithms/cpp/%23059_Spiral%20Matrix%20II.cpp)||Medium|`Array`|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[C++](algorithms/cpp/%23060_Permutation%20Sequence.cpp)||Medium|`Math` `Backtracking`|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[C++](algorithms/cpp/%2362_Unique%20Paths.cpp)||Medium|`Array` `Dynamic Programming`|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[C++](algorithms/cpp/%23063_Unique%20Paths%20II.cpp)||Medium|`Array` `Dynamic Programming`|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[C++](algorithms/cpp/%23069_Sqrt(x).cpp)||Easy|`Math` `Binary Search`|
