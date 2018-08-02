@@ -55,6 +55,7 @@ LeetCode [solutions](algorithms/cpp) and [io library](lib) in C++
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[C++](algorithms/cpp/%23063_Unique%20Paths%20II.cpp)||Medium|`Array` `Dynamic Programming`|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[C++](algorithms/cpp/%23064_Minimum%20Path%20Sum.cpp)||Medium|`Array` `Dynamic Programming`|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/description/)|[C++](algorithms/cpp/%23065_Valid%20Number.cpp)||Hard|`Math` `String`|
+|68|[Text Justification](https://leetcode.com/problems/text-justification/description/)|[C++](algorithms/cpp/%23068_Text%20Justification.cpp)||Hard|`String`|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[C++](algorithms/cpp/%23069_Sqrt(x).cpp)||Easy|`Math` `Binary Search`|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[C++](algorithms/cpp/%23070_Climbing%20Stairs.cpp)||Easy|`Dynamic Programming`|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[C++](algorithms/cpp/%23125_Valid%20Palindrome.cpp)||Easy|`Two Pointers` `String`|
