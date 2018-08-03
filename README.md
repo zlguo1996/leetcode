@@ -58,6 +58,7 @@ LeetCode [solutions](algorithms/cpp) and [io library](lib) in C++
 |68|[Text Justification](https://leetcode.com/problems/text-justification/description/)|[C++](algorithms/cpp/%23068_Text%20Justification.cpp)||Hard|`String`|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[C++](algorithms/cpp/%23069_Sqrt(x).cpp)||Easy|`Math` `Binary Search`|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[C++](algorithms/cpp/%23070_Climbing%20Stairs.cpp)||Easy|`Dynamic Programming`|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|[C++](algorithms/cpp/%23071_Simplify%20Path.cpp)||Medium|`String` `Stack`|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[C++](algorithms/cpp/%23125_Valid%20Palindrome.cpp)||Easy|`Two Pointers` `String`|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[C++](algorithms/cpp/%23133_Clone%20Graph.cpp)||Medium|`Depth-first Search` `Breadth-first Search` `Graph`|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](algorithms/cpp/%23152_Maximum%20Product%20Subarray.cpp)||Medium|`Array` `Dynamic Programming`|
