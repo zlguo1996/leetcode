@@ -86,7 +86,7 @@ namespace leetcodeio {
         vector<T> vec;
         while (getline(file, lineStr, ',')) {
             int pos_begin=0, pos_end;
-            if(lineStr[pos_begin]=='[') pos_begin++;
+            while(lineStr[pos_begin]=='['||lineStr[pos_begin]==' '||lineStr[pos_begin]=='\n'||lineStr[pos_begin]=='\r') pos_begin++;
             pos_end = pos_begin;
             while(pos_end<lineStr.size() && lineStr[pos_end]!='"') pos_end++;
             
@@ -137,12 +137,13 @@ namespace leetcodeio {
         string lineStr;
         vector<vector<T>> mat;
         while (getline(file, lineStr, ',')) {
-            if(lineStr[0]=='['){
+            int pos_begin=0, pos_end;
+            while(lineStr[pos_begin]==' '||lineStr[pos_begin]=='\n'||lineStr[pos_begin]=='\r') pos_begin++;
+            if(lineStr[pos_begin]=='['){
                 vector<T> line;
                 mat.push_back(line);
             }
-            int pos_begin=0, pos_end;
-            while(lineStr[pos_begin]=='[') pos_begin++;
+            while(lineStr[pos_begin]=='['||lineStr[pos_begin]==' '||lineStr[pos_begin]=='\n'||lineStr[pos_begin]=='\r') pos_begin++;
             pos_end = pos_begin;
             while(pos_end<lineStr.size() && lineStr[pos_end]!='"') pos_end++;
             stringstream ss(lineStr.substr(pos_begin, pos_end-pos_begin));
