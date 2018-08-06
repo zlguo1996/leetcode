@@ -17,10 +17,6 @@
 
 using namespace std;
 
-namespace test{
-    void test();
-}
-
 /*
  * Name: LeetcodeIO library
  * Function: Print vector/mat to cout, read vector/mat from csv file.
