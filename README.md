@@ -61,6 +61,7 @@ LeetCode [solutions](algorithms/cpp) and [io library](lib) in C++
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|[C++](algorithms/cpp/%23071_Simplify%20Path.cpp)||Medium|`String` `Stack`|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/description/)|[C++](algorithms/cpp/%23072_Edit%20Distance.cpp)|[🌟](https://leetcode.com/problems/edit-distance/discuss/25846/20ms-Detailed-Explained-C++-Solutions-(O(n)-Space))|Hard|`String` `Dynamic Programming`|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[C++](algorithms/cpp/%23073_Set%20Matrix%20Zeroes.cpp)||Medium|`Array`|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](algorithms/cpp/%23074_Search%20a%202D%20Matrix.cpp)||Medium|`Array` `Bianry Search`|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[C++](algorithms/cpp/%23125_Valid%20Palindrome.cpp)||Easy|`Two Pointers` `String`|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[C++](algorithms/cpp/%23133_Clone%20Graph.cpp)||Medium|`Depth-first Search` `Breadth-first Search` `Graph`|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](algorithms/cpp/%23152_Maximum%20Product%20Subarray.cpp)||Medium|`Array` `Dynamic Programming`|
