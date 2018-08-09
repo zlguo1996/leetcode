@@ -63,6 +63,7 @@ LeetCode [solutions](algorithms/cpp) and [io library](lib) in C++
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[C++](algorithms/cpp/%23073_Set%20Matrix%20Zeroes.cpp)||Medium|`Array`|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](algorithms/cpp/%23074_Search%20a%202D%20Matrix.cpp)||Medium|`Array` `Bianry Search`|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/#)|[C++](algorithms/cpp/%23075_Sort%20Colors.cpp)||Medium|`Array` `Two Pointers` `Sort`|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|[C++](algorithms/cpp/%23076_Minimum%20Window%20Substring.cpp)|🌟🌟|Hard|`Hash Table` `Two Pointers` `String`|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[C++](algorithms/cpp/%23125_Valid%20Palindrome.cpp)||Easy|`Two Pointers` `String`|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[C++](algorithms/cpp/%23133_Clone%20Graph.cpp)||Medium|`Depth-first Search` `Breadth-first Search` `Graph`|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](algorithms/cpp/%23152_Maximum%20Product%20Subarray.cpp)||Medium|`Array` `Dynamic Programming`|
