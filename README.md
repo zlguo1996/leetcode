@@ -65,6 +65,7 @@ LeetCode [solutions](algorithms/cpp) and [io library](lib) in C++
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/#)|[C++](algorithms/cpp/%23075_Sort%20Colors.cpp)||Medium|`Array` `Two Pointers` `Sort`|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|[C++](algorithms/cpp/%23076_Minimum%20Window%20Substring.cpp)|🌟🌟|Hard|`Hash Table` `Two Pointers` `String`|
 |77|[Combinations](https://leetcode.com/problems/combinations/description/)|[C++](algorithms/cpp/%23077_Combinations.cpp)||Medium|`Backtracking`|
+|78|[Subsets](https://leetcode.com/problems/subsets/description/)|[C++](algorithms/cpp/%23078_Subsets.cpp)||Medium|`Array` `Backtracking` `Bit Manipulation`|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[C++](algorithms/cpp/%23125_Valid%20Palindrome.cpp)||Easy|`Two Pointers` `String`|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[C++](algorithms/cpp/%23133_Clone%20Graph.cpp)||Medium|`Depth-first Search` `Breadth-first Search` `Graph`|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](algorithms/cpp/%23152_Maximum%20Product%20Subarray.cpp)||Medium|`Array` `Dynamic Programming`|
