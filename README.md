@@ -76,6 +76,7 @@ LeetCode [solutions](algorithms/cpp) and [io library](lib) in C++
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[C++](algorithms/cpp/%23088_Merge%20Sorted%20Array.cpp)||Easy|`Array` `Two Pointers`|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/description/)|[C++](algorithms/cpp/%23089_Gray%20Code.cpp)||Medium|`Backtracking`|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/)|[C++](algorithms/cpp/%23090_Subsets%20II.cpp)||Medium|`Array` `Backtracking`|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[C++](algorithms/cpp/%23091_Decode%20Ways.cpp)||Medium|`String` `Dynamic Programming`|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[C++](algorithms/cpp/%23125_Valid%20Palindrome.cpp)||Easy|`Two Pointers` `String`|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[C++](algorithms/cpp/%23133_Clone%20Graph.cpp)||Medium|`Depth-first Search` `Breadth-first Search` `Graph`|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](algorithms/cpp/%23152_Maximum%20Product%20Subarray.cpp)||Medium|`Array` `Dynamic Programming`|
