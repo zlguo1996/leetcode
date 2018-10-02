@@ -79,6 +79,7 @@ LeetCode [solutions](algorithms/cpp) and [io library](lib) in C++
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[C++](algorithms/cpp/%23091_Decode%20Ways.cpp)||Medium|`String` `Dynamic Programming`|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)|[C++](algorithms/cpp/%23092_Reverse%20Linked%20List%20II.cpp)||Medium|`Linked List`|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)|[C++](algorithms/cpp/%23093_Restore%20IP%20Addresses.cpp)||Medium|`String` `Backtracking`|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|[C++](algorithms/cpp/%23094_Binary%20Tree%20Inorder%20Traversal.cpp)||Medium|`Hash Table` `Stack` `Tree`|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[C++](algorithms/cpp/%23125_Valid%20Palindrome.cpp)||Easy|`Two Pointers` `String`|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[C++](algorithms/cpp/%23133_Clone%20Graph.cpp)||Medium|`Depth-first Search` `Breadth-first Search` `Graph`|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](algorithms/cpp/%23152_Maximum%20Product%20Subarray.cpp)||Medium|`Array` `Dynamic Programming`|
