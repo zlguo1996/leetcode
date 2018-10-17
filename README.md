@@ -92,6 +92,7 @@ LeetCode [solutions](algorithms/cpp) and [io library](lib) in C++
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)|[C++](algorithms/cpp/%23109_Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.cpp)||Medium|`Linked List` `Depth-first Search`|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)|[C++](algorithms/cpp/%23114_Flatten%20Binary%20Tree%20to%20Linked%20List.cpp)||Medium|`Tree` `Depth-first Search`|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)|[C++](algorithms/cpp/%23115_Distinct%20Subsequences.cpp)||Hard|`String` `Dynamic Programming`|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)|[C++](algorithms/cpp/%23124_Binary%20Tree%20Maximum%20Path%20Sum.cpp)||Hard|`Tree` `Depth-first Search`|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[C++](algorithms/cpp/%23125_Valid%20Palindrome.cpp)||Easy|`Two Pointers` `String`|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[C++](algorithms/cpp/%23133_Clone%20Graph.cpp)||Medium|`Depth-first Search` `Breadth-first Search` `Graph`|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](algorithms/cpp/%23152_Maximum%20Product%20Subarray.cpp)||Medium|`Array` `Dynamic Programming`|
